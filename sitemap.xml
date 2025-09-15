@@ -6,32 +6,32 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://www.slurpdata.com/features</loc>
+      <loc>https://www.slurpdata.com/features/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
    <url>
-      <loc>https://www.slurpdata.com/getstarted</loc>
+      <loc>https://www.slurpdata.com/getstarted/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.slurpdata.com/downloads</loc>
+      <loc>https://www.slurpdata.com/downloads/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.4</priority>
    </url>
    <url>
-      <loc>https://www.slurpdata.com/demos</loc>
+      <loc>https://www.slurpdata.com/demos/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.3</priority>
    </url>
    <url>
-      <loc>https://www.slurpdata.com/support</loc>
+      <loc>https://www.slurpdata.com/support/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.2</priority>
    </url>
    <url>
-      <loc>https://www.slurpdata.com/licensing</loc>
+      <loc>https://www.slurpdata.com/licensing/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.1</priority>
    </url>
